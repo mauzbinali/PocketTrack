@@ -1,0 +1,5 @@
+storePassword=YOUR_STORE_PASSWORD
+keyPassword=YOUR_KEY_PASSWORD
+keyAlias=upload
+# Use forward slashes for an absolute Windows path.
+storeFile=C:/path/to/upload-keystore.jks
