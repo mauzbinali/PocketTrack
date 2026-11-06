@@ -9,7 +9,6 @@ Requires Flutter 3.44 or newer (Dart 3.12), Android SDK/build tools, and a compa
 `C:\Users\mauzb\OneDrive\Desktop\intership projects\pockettrack`
 
 ```powershell
-cd 'C:\Users\mauzb\OneDrive\Desktop\intership projects\pockettrack'
 flutter pub get
 flutter doctor
 # If prompted, review Android SDK licenses:
